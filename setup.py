@@ -16,7 +16,7 @@ if __name__ == '__main__':  # ``import setup`` doesn't trigger setup().
         name='django-highcharts',
         version='0.1.7',
         description="Django Highcharts helpers",
-        long_description=read_relative_file('README.rst'),
+        long_description=read_relative_file('README.md'),
         classifiers=['Development Status :: 4 - Beta',
                      'Environment :: Web Environment',
                      'Framework :: Django',
